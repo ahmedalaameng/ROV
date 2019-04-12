@@ -1,0 +1,6 @@
+led on
+Y-Axis	go forward and reverse	3	SLIDER	Y Axis	0	1.0	0.0
+X-Axis	shifting right or left	3	SLIDER	X Axis	0	1.0	0.0
+Z-Rotation	rotate right or left	3	SLIDER	Z Rotation	0	1.0	0.0
+Slider	control speed	3	SLIDER	Slider	0	1.0	0.0
+Gripper	shoot gripper	1	BUTTON	Button 0	0	0.0	0.0

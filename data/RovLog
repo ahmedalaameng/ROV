@@ -1,0 +1,11 @@
+control Rov with logitech
+Move	moving Rov forward and backward	3	SLIDER	Y Axis	0	5.0	0.0
+Shift	shifting right and left	3	SLIDER	X Axis	0	5.0	0.0
+Rotate	rotating right and left	3	SLIDER	Z Rotation	0	5.0	0.0
+Slider	sliding stick	3	SLIDER	Slider	0	5.0	0.0
+Hat	for up and down and more	2	HAT	cooliehat: Hat Switch	0	5.0	0.0
+Gripper	shooting button as a gripper	1	BUTTON	Button 0	0	0.0	0.0
+Butt12	12	1	BUTTON	Button 11	0	0.0	0.0
+Butt11	11	1	BUTTON	Button 10	0	0.0	0.0
+Butt10	10	1	BUTTON	Button 9	0	0.0	0.0
+Butt9	9	1	BUTTON	Button 8	0	0.0	0.0
